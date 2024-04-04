@@ -83,6 +83,7 @@ const Cart = () => {
                     let dataObj = { "productArray": finalArray }
                     dispatch(paymentCheckoutResponse(dataObj))
                 }
+				return null
             })
 
         }
