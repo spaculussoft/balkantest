@@ -61,6 +61,6 @@ Start the app
   npm start
 ```
 
-## Important Note for Stripe Payment Integration
+## Important Note for Stripe Payment
 
-When using the Stripe payment, please ensure select "US" as the country when entering their billing information.
+When using the Stripe payment, please ensure select "United States" as the country when entering billing information.
