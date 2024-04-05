@@ -23,14 +23,13 @@ Download the project from GitHub, then install the node modules (both frontend a
 Clone the project
 
 ```bash
-  https://github.com/spaculussoft/test.git
+  https://github.com/spaculussoft/balkantest.git
 ```
 
 Go to the backend directory
 
 ```bash
-  cd test/backend
-  
+  cd balkantest/backend
 ```
 Install dependencies
 
@@ -47,7 +46,7 @@ Start the server
 Go to the frontend directory
 
 ```bash
-  cd test/frontend
+  cd balkantest/frontend
 ```
 
 Install dependencies
@@ -60,7 +59,4 @@ Start the app
 
 ```bash
   npm start
-
-
 ```
-
