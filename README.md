@@ -60,3 +60,7 @@ Start the app
 ```bash
   npm start
 ```
+
+## Important Note for Stripe Payment Integration
+
+When using the Stripe payment, please ensure select "US" as the country when entering their billing information.
